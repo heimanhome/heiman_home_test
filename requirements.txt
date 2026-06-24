@@ -10,7 +10,7 @@ homeassistant>=2026.3.0
 # Linting and formatting
 ruff>=0.3.0
 pylint>=3.0.0
-mypy>=1.8.0
+mypy>=2.1.0
 
 # Pre-commit
 pre-commit>=3.5.0
