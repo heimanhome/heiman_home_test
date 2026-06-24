@@ -1,5 +1,5 @@
 # Core dependencies
-heiman-connect==1.0.16
+heiman-connect==1.0.19
 
 # Development dependencies
 pytest>=7.4.0
